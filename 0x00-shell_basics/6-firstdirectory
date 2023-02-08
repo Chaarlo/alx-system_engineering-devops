@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdiri  /tmp/my_first_directory
+mkdiri  /tmp/my_first_directory: directory
